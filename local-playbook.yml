@@ -18,8 +18,8 @@ asciidoc:
     idseparator: "-"
     page-pagination: ""
     extensions:
-      - "@antora/lunr-extension"
-      - '@antora/pdf-extension'
+      - '@antora/lunr-extension'
+      - require: '@antora/pdf-extension'
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
