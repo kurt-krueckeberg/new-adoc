@@ -6,8 +6,7 @@ See:
 * link:https://wiki.genealogy.net/Portal:Adressbuch[Addressbuch]
 * link:https://ofb.genealogy.net/[Ortsbücher] and Petzen link:https://ofb.genealogy.net/petzen/[Petzen].
 
-
-MAke Reference(s) a level 3 header and to below person's sections.
+Make Reference(s) a level 3 header and to below person's sections.
 
 Finish word on image3.adoc, then do image5.adoc.
 
