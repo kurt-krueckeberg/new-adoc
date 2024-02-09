@@ -55,7 +55,7 @@
 // **** xref:vol2-image300.adoc[]
 // **** xref:vol2-image313.adoc[]
 // **** xref:vol2-image314.adoc[]
- *** Chronological Krückeberg View
+ *** Chronology of Ceremonies
 //chronology-krueckeberg-start
 **** xref:vol1a-image167.adoc[]
 **** xref:vol1b-image52.adoc[]
