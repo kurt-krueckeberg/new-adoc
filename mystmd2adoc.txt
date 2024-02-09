@@ -1,0 +1,43 @@
+After runnning the sed converter,,
+
+Idea for navigation:
+* Use a top-velve heading in the navigation like "Petzen Church Books"
+  * Then I corss reference inviduals by doing: xref:filename.adoc#heinrich-x-y-krueckebergEtc[something]
+    Or <<chapters/chapter-1.adoc#_anchor_name,Destination in Chapter 1>>
+
+See the examples in ~/adocs-4-genealog/r/p/image3.md for tables, images, etc.
+
+Here are what you can do:
+
+For tables:
+
+.Transcription of Marriage entry no. 3
+[%autowidth,header]
+|===
+|`Getrauete im Jahr 1785                          1`
+
+|`Lines one and two not shown.`
+
+|`3) d [date] 27th ist copulirt Friderich Weiland Canonier` +
+     `aus Evesen mit [?]itt[??] Philippina Watermann Sch[?????]` + 
+     `aus Evesen`
+|===
+
+For images:
+
+Make sure the .jpg is in the images folder.
+
+image::petzen-vol2-img3-weiland.jpg[align=left,width=1600,title='Marriage Entry 3',xref=image$petzen-vol2-img3-weiland.jpg]
+
+For literal text, one way is:
+
+[verse]
+--
+This is raw text
+and this more of it.
+--
+
+
+
+
+

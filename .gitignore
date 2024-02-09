@@ -1,0 +1,9 @@
+.vscode/
+_/
+node_modules/
+public/
+latest/
+.*.swp
+/code/nbproject/private/
+nbproject/
+bibliography-builder/

@@ -1,0 +1,118 @@
+= 1807 Carl Friedrich Krückeberg Baptism
+
+== Citation
+
+The birth and baptism of Carl Friedrich Krückeberg is <<image96-186, on image 96, pages 186 and 187>> in the Petzen
+Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+
+== Pages 186 and 187 
+
+Overview:
+
+image::vol2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)", xref=image$vol2-img96-overview.jpg]
+
+=== Baptism Entry 22
+
+image::vol2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)", xref=image$vol2-img96-186.jpg]
+
+image::vol2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enlarge)", xref=image$vol2-img96-187.jpg]
+
+[NOTE]
+In the last column, the residence village of Hans Heinrich Wilharm may start with an "O". The last character on the preceding line
+is uncertain.
+
+[caption="Transliteration and translation: "]
+.Carl Friedrich Krückeberg Baptism
+[%autowidth,frame="none",options="noheader"]
+|===
+9+<|186         Getaufte im Kirchspiele Petzen (Baptisms in the Parish of Petzen)          im Jahr 1807                            187
+
+s|N. s|Name des Kindes s|Zahl s|Geburtzeit
+u. Geburtsort s|Taufzeit und
+Taufort des Kindes s|Name, Stand Religion
+u. Geburts ort des Vaters  s|Name, Religion
+u. Geburtsort der
+Mutter s|Wohnort 
+der
+Eltern s|Taufzeugen
+
+|N.|Child's Name|Num.|Birth time +
+and Place|Baptism Time and +
+Place of the Child|Name, Re- +
+ligion and Birth place +
+of the Father |Name, Religion +
+and Birth Place +
+of the Mother|Parent's +
+Residence|Baptismal Witnesses +
+of the Child
+
+|N.|Child's Name|Num.|Birth time +
+and Place|Baptism Time and +
+Place of the Child|Name, Re- +
+ligion and Birth place +
+of the Father |Name, Religion +
+and Birth Place +
+of the Mother|Parent's +
+Residence|Baptismal Witnesses +
+of the Child
+
+|20
+|Carl Friedrich Krückeberg
+|das 2ten Kind
+ u. 1ten Sohn
+|ist geboren
+ d. 21ten Mai.
+ abends 8 Uhr
+ in Bärenbusch
+|wurde getauft 24. Mai
+in der Kirche
+|Carl Friedrich Gottlieb
+ Krückeberg. Schneider
+ u. Einlieger in n. 14 in
+ Bärenbusch. Luth. Conf.
+|Philippine Leonore
+ geb. Bleeken aus
+ n. 11 in Evesen, Luth Conf.
+|wohnen
+ auf n. 14
+ in Bärenbusch
+|1 Hans Heinrich Wil-
+ harm n. 11 in Evesen
+ 2. Joh. Heinr. Deerberg n. [O?]
+[d/De][s/f]elht, u.
+ 3. Jobst Heinrich Kruckeberg
+ aus Bärenbusch
+
+|20
+|Carl Friedrich Krückeberg
+|the 2^nd^ child +
+and 1^st^ son
+|Born 21^th^ May +
+ 8 o'clock in the evening +
+ in Bärenbusch
+|baptized the 24^th^ May +
+in the church
+|Carl Friedrich Gottlieb +
+ Krückeberg. Tailer +
+ and free farm laborer in n. 14 in +
+ Bärenbusch. Luth. Conf.
+|Philippine Leonore +
+ born Bleeke from +
+ n. 11 in Evesen, Luth Conf.
+|live +
+ in n. 14 +
+ in Bärenbusch
+|1 Hans Heinrich Wil- +
+ harm n. 11 in Evesen +
+ 2. Joh. Heinr. Deerberg n. [0/O?] +
+[D/d]e[s/f]elht, u. +
+ 3. Jobst Heinrich Kruckeberg +
+ from Bärenbusch
+|===
+
+
+[bibliography]
+== References
+
+* [[[image96-186]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/4af33a94aa/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 96 of 357
+

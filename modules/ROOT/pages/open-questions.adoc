@@ -1,0 +1,24 @@
+= Fridrich 
+
+== Background
+
+**todo:** Add a summary to give background
+
+
+
+:table-caption: Facts and Sources
+
+.Fridrich Wilhelm Weÿland 
+[%autowidth]
+|===
+| Fact | Source(s) |
+
+| Son Heinrich Wilhelm Weÿland was Immanuel Lutheran founder.
+| Immanuel ???[biography] Biograpy in documents of Immanuel Lutheran church.
+
+| A Friedrich Welhelm Weiland is buried in Immanual Lutheran church. There are no birth or death dates.
+| Immanuel Lutheran Cemetery records. FindAGrave?
+|===
+
+
+Research Plan

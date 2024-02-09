@@ -1,0 +1,16 @@
+name: genealogy
+title: Research Overview
+url: https://docs.krueckeberg.org
+version: '1.0' 
+# start_page: genealogy::index.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+  - modules/ROOT/nav-top.adoc
+  - modules/churches/nav-churches.adoc
+  - modules/kirchenbücher/nav.adoc
+  - modules/petzen/nav-petzen.adoc
+  - modules/frille/nav.adoc
+  - modules/fgs/nav.adoc

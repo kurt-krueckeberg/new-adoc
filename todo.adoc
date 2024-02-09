@@ -1,0 +1,131 @@
+= Plans
+
+* Tracing married Krueckeberg daughters in order to discover the baptismal sponsors of the children.
+* I have completed through Petzen, volume 2, image 337, starting from end of the book.
+* Email: ____ Holm who had emailed me about my Antora/Adoc gitlab or github repo, and who replied he was looking into a straight .adoc site with
+graphiv genealogy charts.
+
+Shannon Green plan:
+
+List all the facts in each recorded event in the Petzen church books, each of which now has a citation and downloaded section of the relevant
+portions of the image(s).
+
+* Treating each person recorded in an event as unique try to create a timeline for the putative parents in the direct line.
+* Try comparing individuals who are evidently the same, list the attributes that they share in an effort to establish they are the
+same person.
+
+
+== Graphviz
+
+Email: ____ Holm who had emailed me about my Antora/Adoc gitlab or github repo, and who replied he was looking into a straight .adoc site with
+graphiv genealogy charts.
+
+See generating family trees graphs using Graphviz on link:https://stackoverflow.com/questions/2271704/family-tree-layout-with-dot-graphviz[Family tree layout with Dot/GraphViz]
+
+== todoes
+
+Fix the problems with vol2-image12-?.adoc. Several individuals are mentioned on these pages. I have broken image1 number 2 (from the last Petzen volume)
+into separate files for each individual. In the process I discovered that vol2-image12-2.adoc was identiacl to vol2-image3.adoc. Thus the person
+referenced by vol2-image12-2.adoc in ~/ad/p/nav-petzen.doc is WRONG--most likely.
+
+Find out how to add the Antora PDF convertor -- or find a single page converter of an Antora webpage.
+See:
+
+* https://www.npmjs.com/package/@antora/pdf-extension 
+* https://gitlab.com/antora/antora-assembler
+
+
+Add these sources to my German sources to consult:
+
+* link:https://www.familienkunde-niedersachsen.de/?Veroeffentlichungen___Ortsfamilienbuecher_und_Familiendatenbanken[Ortsfamilienbücher und Familiendatenbanken]
+  der Familienkunde Niedersachsen. Ein Ortsfamilienbuch (OFB) ist im Wesentlichen eine Zusammenstellung aller Familien und ihrer Personen eines Ortes oder einer
+  Pfarrei, erstellt aus den Kirchenbüchern und weiteren Quellen.
+
+* link:https://static.libnet.info/frontend-images/pdfs/acpl/Genealogy/IGGP_Librarians_Day_Handouts.pdf[Resources for Beginning German Research] von Archivist im
+  Bremen
+
+* https://www.familysearch.org/en/wiki/Germany_Town_Genealogies_and_Parish_Register_Inventories_on_the_Internet
+
+* https://static.libnet.info/frontend-images/pdfs/acpl/Genealogy/IGGP_Librarians_Day_Handouts.pdf
+
+== Minert sources
+
+Add the census sources Roger Minert describes for Schaumburg-Lippe the link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action[Bückeburg Arcsys]?
+
+Kevan M Hansen's:  Map Guide to German Parish Registers.
+
+== Progess
+
+=== Church Registers
+
+[caption="Status of Examiniation of Petzen Church Registers: "]
+.Pages done in these volumes
+|===
+|Title|# of Images|Status
+
+|Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827
+|357
+|Completed all 357
+
+|Verzeichnis der Getauften und Konfirmierten, 1641-1784
+|Image 167 of 322
+|Need to move systematically +
+from 1744 back to already- +
+completed images
+
+|Verzeichnis der Getrauten und Gestorbenen, 1641-1784
+|239
+|?
+|===
+
+[caption="Status of Examiniation of Frille Church Registers: "]
+.Pages done in these volumes
+|===
+|Title|# of Images|Status
+
+|Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804
+|388
+|?
+
+|Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757
+|389
+|?
+|===
+
+=== Other Frille Volumes Listed in Archion and Arcsys
+
+* Naturalienverzeichnis und Einnahmen der Kirchengemeinde Frille, 1631 - 1764 		
+* Naturalienverzeichnis der Kirchengemeinde Frille, 1641 - 1733 
+
+=== Other Items
+* write code for archion db records insertion from yaml files.Database
+
+* Look for the marriage of Johann Heinrich Krüeckeberg born 1744 on the dat, if given, in familysearch.org.
+
+=== Undo Weiland .adocs for Images
+
+These Weiland images have not been transliteration, translated or added to the documention:
+
+Seee ~/ad/p/p/vol1a-still-not-done.txt
+
+Stopped at image 173 (not viewed) of baptisms and confirmations from vol1a.
+Did not transcribe about 20 .jpgs of Weilands. 
+
+== Add Meili open source search to the website:
+
+See:
+
+* link:https://dev.to/meilisearch/integrate-a-relevant-search-bar-to-your-documentation-3nl9[Integrate a relevant search bar to your documentation with MeiliS]
+
+* link:https://www.youtube.com/watch?v=SJl2UWfy1nk[Youtube Video with key developer]
+
+* link:https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/[Through Article on Meili Search].
+
+== UI Customization
+
+* Optionally personal UI bundle (zip) and put it in the antora-playbook.yml in the genealogy repo. I currently
+  am using supplemental_ui to create a custom header
+
+== German Genealogy 
+
+* Gail Blankensale lecture.

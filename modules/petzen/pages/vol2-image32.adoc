@@ -1,0 +1,49 @@
+= Year 1785 Image 32 Baptism
+
+== Reference
+
+This is <<image32, Archion image 32>> of Petzen Kirchenbuch volume 2.
+
+== Hans Engkeling mother was born Weiland 1785
+
+=== Image 32
+
+image::vol2-img32.jpg[align=left,title='Baptism Entry 3',xref=image$vol2-img32.jpg]
+
+=== Transliteration and Translation
+
+[caption="Transliteration 1: "]
+.Baptism entry no. 3 for Hans Engkeling 
+[%autowidth, header]
+|===
+|Getaufte 1785                    59
+
+|17) d[ate] 10ten Apr: ist Hans Heinrich Engleking +
+des Johann Heinrich Engelkings aus Nord[h] No. 7 +
+mit seiner Ehehfrau Katharine Margaretha +
+geb[apparently: geboren] Weilands erzeugter Sohn getaufft. +
+Gevatter war Meyer aus Nordholtz auf +
+[Ochter]iers [meinrs] Söhn des Kindes [Vaters] Sch[w][?]ger` 
+|===
+
+Translation:
+
+[caption="Translation 1: "]
+.Baptism entry no. 3 for Hans Engkeling 
+[%autowidth, header]
+|===
+|Marriage 1785               59
+
+|17) date 10th Apr: was Hand Heinrich Engleking baptized +
+the conceived son of Johann Heinrich Engelking from Nord[holz?] No. 7 +
+and his wife Katharine Margaretha +
+born Weiland. Godfather was Meyer from Nordholtz auf +
+[????] sons of the children's father['s] Schw[w][?]ger
+|===
+
+
+[bibliography]
+== References
+
+* [[[image32]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/5eed9bc2d8/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3 of 357
+

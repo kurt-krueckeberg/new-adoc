@@ -1,0 +1,41 @@
+= Timeline
+
+++++
+ <div class="vtimeline-container">
+   <div class="vtimeline">
+     <div class="vcontainer vright">
+       <div class="vcontent">
+         <h2>1834</h2>
+         <p>Johann Heinrich Philip Bleeke (and possibly Carl Friedrich Bleeke) emigrate to America.</p>
+         <p>They eventually settle in Hamilton County, Ohio, before finally moving to Adams County, IN.</p>
+       </div>
+     </div>
+     <div class="vcontainer vleft">
+       <div class="vcontent">
+         <h2>10 November 1840</h2>
+         <p><strong>Johann Heinrich Philip Bleeke</strong> awarded two land patents in section 21, Union twp, Adams CO IN.</p>
+         <p><strong>Carl Friedrich Bleeke</strong> awarded one land patent in section 21, Union twp, Adams Co. IN.</p>
+       </div>
+     </div>
+     <div class="vcontainer vright">
+       <div class="vcontent">
+         <h2>5 November 1849</h2>
+         <p>The Johann Heinrich Krückeberg and the Heinrich Wilhelm Weiland families arrive in New York from Bremen on the ship Orion.</p>
+       </div>
+     </div>
+     <div class="vcontainer vleft">
+       <div class="vcontent">
+         <h2>19 November 1849</h2>
+         <p>The Carl Friedrich Gottlieb Krückeberg family arrives in New York from Bremen on the ship Hermine.</p>
+       </div>
+     </div>
+     <div class="vcontainer vright">
+       <div class="vcontent">
+         <h2>1 January 1858</h2>
+         <p>Charles F Kinkenberry awarded land patent in Section 21, Union twp, Adams Co. IN.</p> 
+       </div>
+     </div>
+   </div>
+ </div>
+++++
+
